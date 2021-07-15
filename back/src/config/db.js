@@ -1,0 +1,1 @@
+export const url = 'mongodb+srv://Abbass:Abbass_123@cluster0.8aa6d.mongodb.net/Filma?retryWrites=true&w=majority';
